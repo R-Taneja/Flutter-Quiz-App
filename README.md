@@ -9,7 +9,7 @@ A quiz app made with Flutter.
 5. If you get a popup asking if you would like to create an Android Studio project, click "No."
 6. In Android Studio, click "Open an existing Android Studio project."
 7. Navigate to the directory where you cloned the project in step 4 (usually in ~/AndroidStudioProjects) and open the project folder.
-8. When Android Studio opens the project, click "Get dependencies" and wait for it to load.
+8. When Android Studio opens the project, click "Get dependencies" or "Pub get" and wait for it to load.
 9. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshots
