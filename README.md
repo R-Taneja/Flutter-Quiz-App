@@ -1,4 +1,4 @@
-# flutter-quiz
+# Quiz
 A quiz app made with Flutter.
 
 ## Download Instructions
