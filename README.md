@@ -13,6 +13,7 @@ A quiz app made with Flutter.
 9. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshots
-![screenshot1](https://user-images.githubusercontent.com/47066511/66089786-af229600-e54e-11e9-897d-0a64adad21fd.png)
-![screenshot2](https://user-images.githubusercontent.com/47066511/66089789-b184f000-e54e-11e9-9d53-6631b5c18fc1.png)
-![screenshot3](https://user-images.githubusercontent.com/47066511/66089797-b47fe080-e54e-11e9-935a-c9c172f8c7b8.png)
+
+<img src="https://user-images.githubusercontent.com/47066511/66089786-af229600-e54e-11e9-897d-0a64adad21fd.png" width="300" alt="1">
+<img src="https://user-images.githubusercontent.com/47066511/66089789-b184f000-e54e-11e9-9d53-6631b5c18fc1.png" width="300" alt="2">
+<img src="https://user-images.githubusercontent.com/47066511/66089797-b47fe080-e54e-11e9-935a-c9c172f8c7b8.png" width="300" alt="3">
